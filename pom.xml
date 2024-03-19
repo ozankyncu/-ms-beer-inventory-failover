@@ -12,7 +12,7 @@
 	<artifactId>ms-beer-inventory-failover</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ms-beer-inventory-failover</name>
-	<description>Inventroy failover service</description>
+	<description>Inventory failover service</description>
 
 	<properties>
 		<org.mapstruct.version>1.5.0.Final</org.mapstruct.version>
